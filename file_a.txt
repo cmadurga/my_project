@@ -1,3 +1,5 @@
 some text in file a
 some more text
 A change made locally
+A change made in the remote 
+Conflict fixed
